@@ -52,6 +52,7 @@ for category in ["recent", "music"]:
         '''
         print("progress.. (%d/%d)"%(id-100, url_count))
         print("url :",url)
+        # 이미 존재하는 파일스킵
         if path.exists(JSON_FILE_NAME.format(category,"%03d"%id)):
             print("file is already exist. : ",JSON_FILE_NAME.format(category,"%03d"%id))
             continue
@@ -76,6 +77,7 @@ for category in ["recent", "music"]:
             scrap_count=commentary.count_of_crawled,
         )
         print("crawled data ({}/{})\n".format(commentary.count_of_small_content, commentary.count_of_crawled))
+        # url별로 수집완료된 데이터. 각 json파일로 저장
         save_to_json(data=commentary_dict,name=JSON_FILE_NAME.format(category,"%03d"%id))
 
 
