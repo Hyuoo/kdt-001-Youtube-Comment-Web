@@ -1,6 +1,9 @@
 '''
 팀원 김태준 님 소스코드 활용
 카테고리 메인에서 영상 별 url수집하는 코드
+- recent, music
+수집 내용
+- 영상url, 썸네일url
 '''
 
 from selenium import webdriver
