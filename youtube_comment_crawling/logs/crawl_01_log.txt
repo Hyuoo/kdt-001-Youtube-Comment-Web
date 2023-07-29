@@ -1,0 +1,478 @@
+====recent====
+progress.. (1/50)
+url : https://www.youtube.com/watch?v=H0VqCLbZupA
+get_comments.. 16
+빈도계산중: 13
+crawled data (13/13)
+
+progress.. (2/50)
+url : https://www.youtube.com/watch?v=UBURTj20HXI
+get_comments.. 50541
+빈도계산중: 1252
+crawled data (40/1252)
+
+progress.. (3/50)
+url : https://www.youtube.com/watch?v=Iwdq3NtpeFQ
+get_comments.. 9975
+빈도계산중: 1273
+crawled data (40/1273)
+
+progress.. (4/50)
+url : https://www.youtube.com/watch?v=wIBZ7UcQmDU
+get_comments.. 6874
+빈도계산중: 1322
+crawled data (40/1322)
+
+progress.. (5/50)
+url : https://www.youtube.com/watch?v=0xdB_vo4r2c
+get_comments.. 26192
+빈도계산중: 1388
+crawled data (40/1388)
+
+progress.. (6/50)
+url : https://www.youtube.com/watch?v=zXOoza3sxiw
+get_comments.. 11092
+빈도계산중: 1268
+crawled data (40/1268)
+
+progress.. (7/50)
+url : https://www.youtube.com/watch?v=CC7OrEx5H4U
+get_comments.. 9257
+빈도계산중: 1344
+crawled data (40/1344)
+
+progress.. (8/50)
+url : https://www.youtube.com/watch?v=eS-NAO3zmn4
+get_comments.. 975
+빈도계산중: 800
+crawled data (40/800)
+
+progress.. (9/50)
+url : https://www.youtube.com/watch?v=6W6MXVaSg1I
+raised error.. skip file: data/recent_commentary_json_109.json
+progress.. (10/50)
+url : https://www.youtube.com/watch?v=xbaRXzpIOys
+get_comments.. 1561
+빈도계산중: 1173
+crawled data (40/1173)
+
+progress.. (11/50)
+url : https://www.youtube.com/watch?v=wrRu7R7eEBo
+get_comments.. 521
+빈도계산중: 420
+crawled data (40/420)
+
+progress.. (12/50)
+url : https://www.youtube.com/watch?v=e8RcQoGY4OE
+get_comments.. 3792
+빈도계산중: 1246
+crawled data (40/1246)
+
+progress.. (13/50)
+url : https://www.youtube.com/watch?v=ZcAq9Lq8HRA
+get_comments.. 492
+빈도계산중: 328
+crawled data (40/328)
+
+progress.. (14/50)
+url : https://www.youtube.com/watch?v=3aRtJHfsN4g
+get_comments.. 11042
+빈도계산중: 1276
+crawled data (40/1276)
+
+progress.. (15/50)
+url : https://www.youtube.com/watch?v=4PU4ofbSZZU
+get_comments.. 7114
+빈도계산중: 1226
+crawled data (40/1226)
+
+progress.. (16/50)
+url : https://www.youtube.com/watch?v=HF8DWbh_aL0
+get_comments.. 31
+빈도계산중: 17
+crawled data (17/17)
+
+progress.. (17/50)
+url : https://www.youtube.com/watch?v=HNKQE8Xmkkk
+get_comments.. 19064
+빈도계산중: 1174
+crawled data (40/1174)
+
+progress.. (18/50)
+url : https://www.youtube.com/watch?v=UPJALGZbx2I
+get_comments.. 217
+빈도계산중: 156
+crawled data (40/156)
+
+progress.. (19/50)
+url : https://www.youtube.com/watch?v=HmphRR9IdOk
+get_comments.. 1240
+빈도계산중: 1017
+crawled data (40/1017)
+
+progress.. (20/50)
+url : https://www.youtube.com/watch?v=_VR13f6pPT8
+get_comments.. 4731
+빈도계산중: 1206
+crawled data (39/1206)
+
+progress.. (21/50)
+url : https://www.youtube.com/watch?v=HUbq5p45eVw
+get_comments.. 5007
+빈도계산중: 1279
+crawled data (40/1279)
+
+progress.. (22/50)
+url : https://www.youtube.com/watch?v=s1IOkHXjwvI
+get_comments.. 382
+빈도계산중: 245
+crawled data (40/245)
+
+progress.. (23/50)
+url : https://www.youtube.com/watch?v=jRllL_iwlMg
+get_comments.. 211
+빈도계산중: 200
+crawled data (40/200)
+
+progress.. (24/50)
+url : https://www.youtube.com/watch?v=MzHil8g46Ho
+get_comments.. 931
+빈도계산중: 639
+crawled data (40/639)
+
+progress.. (25/50)
+url : https://www.youtube.com/watch?v=0TmNuK9nD6g
+get_comments.. 190
+빈도계산중: 101
+crawled data (40/101)
+
+progress.. (26/50)
+url : https://www.youtube.com/watch?v=E6FEz_lXTLk
+get_comments.. 1448
+빈도계산중: 1097
+crawled data (40/1097)
+
+progress.. (27/50)
+url : https://www.youtube.com/watch?v=agQ-hcTL3-8
+get_comments.. 88
+빈도계산중: 78
+crawled data (40/78)
+
+progress.. (28/50)
+url : https://www.youtube.com/watch?v=-hXKLRPLooE
+get_comments.. 524
+빈도계산중: 388
+crawled data (40/388)
+
+progress.. (29/50)
+url : https://www.youtube.com/watch?v=iWhZct980II
+get_comments.. 1112
+빈도계산중: 934
+crawled data (39/934)
+
+progress.. (30/50)
+url : https://www.youtube.com/watch?v=DLZ9P9OHm5Y
+get_comments.. 3381
+빈도계산중: 1176
+crawled data (40/1176)
+
+progress.. (31/50)
+url : https://www.youtube.com/watch?v=EvOuk_pNur4
+get_comments.. 1669
+빈도계산중: 890
+crawled data (40/890)
+
+progress.. (32/50)
+url : https://www.youtube.com/watch?v=DwcunIiWddI
+get_comments.. 6787
+빈도계산중: 1332
+crawled data (40/1332)
+
+progress.. (33/50)
+url : https://www.youtube.com/watch?v=awx0yAx-_vI
+get_comments.. 745
+빈도계산중: 528
+crawled data (40/528)
+
+progress.. (34/50)
+url : https://www.youtube.com/watch?v=8_hpcebDNFw
+get_comments.. 4444
+빈도계산중: 1257
+crawled data (40/1257)
+
+progress.. (35/50)
+url : https://www.youtube.com/watch?v=-Z6rS_xbLPI
+get_comments.. 384
+빈도계산중: 344
+crawled data (39/344)
+
+progress.. (36/50)
+url : https://www.youtube.com/watch?v=SUqpdt2IoEU
+get_comments.. 210
+빈도계산중: 127
+crawled data (40/127)
+
+progress.. (37/50)
+url : https://www.youtube.com/watch?v=DaZlqJcg-AU
+get_comments.. 694
+빈도계산중: 390
+crawled data (40/390)
+
+progress.. (38/50)
+url : https://www.youtube.com/watch?v=zIiuvjnl4vc
+get_comments.. 1592
+빈도계산중: 1028
+crawled data (40/1028)
+
+progress.. (39/50)
+url : https://www.youtube.com/watch?v=QRxw2vtMctA
+get_comments.. 1268
+빈도계산중: 1027
+crawled data (40/1027)
+
+progress.. (40/50)
+url : https://www.youtube.com/watch?v=rXgysEt5Dxg
+get_comments.. 790
+빈도계산중: 364
+crawled data (40/364)
+
+progress.. (41/50)
+url : https://www.youtube.com/watch?v=bRrTqAlCj_A
+get_comments.. 709
+빈도계산중: 551
+crawled data (40/551)
+
+progress.. (42/50)
+url : https://www.youtube.com/watch?v=QCaqiYpXzCA
+get_comments.. 1820
+빈도계산중: 1133
+crawled data (40/1133)
+
+progress.. (43/50)
+url : https://www.youtube.com/watch?v=CUTnoWPDzAs
+get_comments.. 99
+빈도계산중: 91
+crawled data (40/91)
+
+progress.. (44/50)
+url : https://www.youtube.com/watch?v=EQyevjloF5g
+get_comments.. 173
+빈도계산중: 113
+crawled data (40/113)
+
+progress.. (45/50)
+url : https://www.youtube.com/watch?v=4SFJJ0nkJy4
+get_comments.. 50
+빈도계산중: 37
+crawled data (37/37)
+
+progress.. (46/50)
+url : https://www.youtube.com/watch?v=QPujqYjz9vs
+get_comments.. 1635
+빈도계산중: 1009
+crawled data (40/1009)
+
+progress.. (47/50)
+url : https://www.youtube.com/watch?v=jATxBhsJz6c
+get_comments.. 1259
+빈도계산중: 887
+crawled data (40/887)
+
+progress.. (48/50)
+url : https://www.youtube.com/watch?v=oixbp4FDH4w
+get_comments.. 1284
+빈도계산중: 1027
+crawled data (40/1027)
+
+progress.. (49/50)
+url : https://www.youtube.com/watch?v=VgPo3q01kbg
+get_comments.. 3120
+빈도계산중: 1155
+crawled data (40/1155)
+
+progress.. (50/50)
+url : https://www.youtube.com/watch?v=dzJvuswZ5ys
+get_comments.. 32162
+빈도계산중: 1217
+crawled data (40/1217)
+
+====music====
+progress.. (1/30)
+url : https://www.youtube.com/watch?v=UBURTj20HXI
+get_comments.. 50718
+빈도계산중: 1097
+crawled data (40/1097)
+
+progress.. (2/30)
+url : https://www.youtube.com/watch?v=-GQg25oP0S4
+get_comments.. 146075
+빈도계산중: 1159
+crawled data (40/1159)
+
+progress.. (3/30)
+url : https://www.youtube.com/watch?v=MqcFHCNXiok
+get_comments.. 114
+빈도계산중: 76
+crawled data (40/76)
+
+progress.. (4/30)
+url : https://www.youtube.com/watch?v=0xdB_vo4r2c
+get_comments.. 26441
+빈도계산중: 1244
+crawled data (40/1244)
+
+progress.. (5/30)
+url : https://www.youtube.com/watch?v=KqfpiXgxS2g
+get_comments.. 595
+빈도계산중: 542
+crawled data (40/542)
+
+progress.. (6/30)
+url : https://www.youtube.com/watch?v=eS-NAO3zmn4
+get_comments.. 975
+빈도계산중: 801
+crawled data (40/801)
+
+progress.. (7/30)
+url : https://www.youtube.com/watch?v=zXOoza3sxiw
+get_comments.. 11322
+빈도계산중: 1268
+crawled data (40/1268)
+
+progress.. (8/30)
+url : https://www.youtube.com/watch?v=veUTBoY53yU
+댓글이 사용 중지되었습니다.
+빈도계산중: 1
+crawled data (0/0)
+
+progress.. (9/30)
+url : https://www.youtube.com/watch?v=wrRu7R7eEBo
+get_comments.. 522
+빈도계산중: 420
+crawled data (40/420)
+
+progress.. (10/30)
+url : https://www.youtube.com/watch?v=NYELDp7RH5Y
+get_comments.. 18
+빈도계산중: 17
+crawled data (17/17)
+
+progress.. (11/30)
+url : https://www.youtube.com/watch?v=SB03Cbc50i8
+get_comments.. 2792
+빈도계산중: 1143
+crawled data (40/1143)
+
+progress.. (12/30)
+url : https://www.youtube.com/watch?v=hxZhLhAFV4U
+get_comments.. 183
+빈도계산중: 177
+crawled data (40/177)
+
+progress.. (13/30)
+url : https://www.youtube.com/watch?v=CM55YWjr7wQ
+댓글이 사용 중지되었습니다.
+빈도계산중: 1
+crawled data (0/0)
+
+progress.. (14/30)
+url : https://www.youtube.com/watch?v=QaILH-kvbR4
+get_comments.. 1143
+빈도계산중: 1021
+crawled data (40/1021)
+
+progress.. (15/30)
+url : https://www.youtube.com/watch?v=5BNXmOlRgzI
+댓글이 사용 중지되었습니다.
+빈도계산중: 1
+crawled data (0/0)
+
+progress.. (16/30)
+url : https://www.youtube.com/watch?v=iy9qZR_OGa0
+get_comments.. 326576
+빈도계산중: 1218
+crawled data (39/1218)
+
+progress.. (17/30)
+url : https://www.youtube.com/watch?v=DV04Mzgx8_w
+get_comments.. 35
+빈도계산중: 35
+crawled data (35/35)
+
+progress.. (18/30)
+url : https://www.youtube.com/watch?v=CC7OrEx5H4U
+get_comments.. 9390
+빈도계산중: 1181
+crawled data (40/1181)
+
+progress.. (19/30)
+url : https://www.youtube.com/watch?v=WT6FJaxawvw
+댓글이 사용 중지되었습니다.
+빈도계산중: 1
+crawled data (0/0)
+
+progress.. (20/30)
+url : https://www.youtube.com/watch?v=hEk9OP-QK4Q
+get_comments.. 23
+빈도계산중: 24
+crawled data (24/24)
+
+progress.. (21/30)
+url : https://www.youtube.com/watch?v=gzsByEIMmAg
+get_comments.. 361
+빈도계산중: 345
+crawled data (40/345)
+
+progress.. (22/30)
+url : https://www.youtube.com/watch?v=vZrhGhbvdEQ
+댓글이 사용 중지되었습니다.
+빈도계산중: 1
+crawled data (0/0)
+
+progress.. (23/30)
+url : https://www.youtube.com/watch?v=jgCVkQhlScc
+get_comments.. 5670
+빈도계산중: 1301
+crawled data (40/1301)
+
+progress.. (24/30)
+url : https://www.youtube.com/watch?v=IkkVFhe1t1I
+댓글이 사용 중지되었습니다.
+빈도계산중: 1
+crawled data (0/0)
+
+progress.. (25/30)
+url : https://www.youtube.com/watch?v=m9SMT5ipbxk
+get_comments.. 2754
+빈도계산중: 1211
+crawled data (40/1211)
+
+progress.. (26/30)
+url : https://www.youtube.com/watch?v=TZAukN4oqsM
+get_comments.. 64
+빈도계산중: 58
+crawled data (40/58)
+
+progress.. (27/30)
+url : https://www.youtube.com/watch?v=pIxvqjpezcw
+댓글이 사용 중지되었습니다.
+빈도계산중: 1
+crawled data (0/0)
+
+progress.. (28/30)
+url : https://www.youtube.com/watch?v=jRllL_iwlMg
+get_comments.. 215
+빈도계산중: 201
+crawled data (40/201)
+
+progress.. (29/30)
+url : https://www.youtube.com/watch?v=VzVig1HuAYw
+get_comments.. 1862
+빈도계산중: 1127
+crawled data (40/1127)
+
+progress.. (30/30)
+url : https://www.youtube.com/watch?v=MYdr8gPQKIk
+댓글이 사용 중지되었습니다.
+빈도계산중: 1
+crawled data (0/0)

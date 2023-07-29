@@ -1,0 +1,31 @@
+progress.. (9/50)
+url : https://www.youtube.com/watch?v=6W6MXVaSg1I
+raised error.. skip file: data/recent_commentary_json_109.json
+
+progress.. (8/30)
+url : https://www.youtube.com/watch?v=veUTBoY53yU
+댓글이 사용 중지되었습니다.
+
+progress.. (14/30)
+url : https://www.youtube.com/watch?v=CM55YWjr7wQ
+댓글이 사용 중지되었습니다.
+
+progress.. (15/30)
+url : https://www.youtube.com/watch?v=5BNXmOlRgzI
+댓글이 사용 중지되었습니다.
+
+progress.. (19/30)
+url : https://www.youtube.com/watch?v=WT6FJaxawvw
+댓글이 사용 중지되었습니다.
+
+progress.. (24/30)
+url : https://www.youtube.com/watch?v=IkkVFhe1t1I
+댓글이 사용 중지되었습니다.
+
+progress.. (27/30)
+url : https://www.youtube.com/watch?v=pIxvqjpezcw
+댓글이 사용 중지되었습니다.
+
+progress.. (30/30)
+url : https://www.youtube.com/watch?v=MYdr8gPQKIk
+댓글이 사용 중지되었습니다.
